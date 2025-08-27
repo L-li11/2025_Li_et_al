@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0098742","cell-cell adhesion via plasma-membrane adhesion molecules","4/26","213/29008",3.72189353707439e-05,0.0400103555235497,0.0266017443334054,"211323/54725/72333/17391",4

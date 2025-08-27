@@ -1,0 +1,3 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0021826","substrate-independent telencephalic tangential migration","2/29","10/29008",4.32107309195712e-05,0.0225992122709357,0.015533120641088,"211323/21367",2
+"GO:0021843","substrate-independent telencephalic tangential interneuron migration","2/29","10/29008",4.32107309195712e-05,0.0225992122709357,0.015533120641088,"211323/21367",2
