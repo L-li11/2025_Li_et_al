@@ -14,5 +14,3 @@ Affiliations:<br/>
 <sup>#</sup> Corresponding author, Email: jianfeng@buffalo.edu<br/>
 
 GEO accession number: GSE210131<br/>
-
-Note: Due to page limitation, the supplementary information was updated with experimental methods in main manuscript moved to supplemental methods. If this change is not reflected on the publisher website, a correct version of supplementary information can be found in this repository.
